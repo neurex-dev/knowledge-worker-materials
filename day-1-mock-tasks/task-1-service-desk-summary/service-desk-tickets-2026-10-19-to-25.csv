@@ -1,0 +1,22 @@
+ticket_id,opened,closed,customer,category,priority,status,sla_due,assigned_to,notes
+SD-4401,2026-10-19,2026-10-19,Harbour Grill,Refrigeration,P1,Closed,2026-10-19,Theo Banerjee,Walk-in cooler compressor fault. Part swapped on site.
+SD-4402,2026-10-19,2026-10-20,Bayview Care Home,Dishwashing,P2,Closed,2026-10-21,Ana Ruiz,Rinse arm replaced.
+SD-4403,2026-10-19,2026-10-23,Linden Street Bakery,Ovens,P3,Closed,2026-10-26,Ana Ruiz,Thermostat ordered and fitted.
+SD-4404,2026-10-19,,Copper Kettle Cafe,Ice machines,P3,Open,2026-10-26,Jules Martin,Waiting on part from supplier.
+SD-4405,2026-10-20,2026-10-20,St. Brendan School,Ovens,P2,Closed,2026-10-22,Jules Martin,Door gasket replaced.
+SD-4406,2026-10-20,2026-10-22,Harbour Grill,Refrigeration,P1,Closed,2026-10-20,Theo Banerjee,Repeat compressor fault on the same cooler. Customer asked for a manager to call them.
+SD-4407,2026-10-20,2026-10-21,Pinecrest Hotel,Dishwashing,P3,Closed,2026-10-27,Ana Ruiz,Detergent pump replaced.
+SD-4408,2026-10-21,,Riverside Hospital Kitchen,Refrigeration,P1,Open,2026-10-21,Theo Banerjee,Blast chiller down. Engineer on site 22 Oct. Needs a second visit with a new controller board.
+SD-4409,2026-10-21,2026-10-21,Linden Street Bakery,Ovens,P3,Closed,2026-10-28,Jules Martin,Customer question answered by phone.
+SD-4410,2026-10-21,2026-10-24,Copper Kettle Cafe,Ice machines,P2,Closed,2026-10-23,Ana Ruiz,Water filter replaced and machine descaled.
+SD-4411,2026-10-22,2026-10-22,Bayview Care Home,Small appliances,P3,Closed,2026-10-29,Jules Martin,Blender replaced under warranty.
+SD-4412,2026-10-22,,Pinecrest Hotel,Ovens,P2,Open,2026-10-26,Ana Ruiz,Combi oven error E34. Parts quote sent to customer.
+SD-4413,2026-10-22,2026-10-23,Marlow Pub,Refrigeration,P2,Closed,2026-10-26,Theo Banerjee,Condenser fan motor repaired on site.
+SD-4414,2026-10-23,2026-10-23,Harbour Grill,Refrigeration,P1,Closed,2026-10-23,Theo Banerjee,Third cooler fault this week. Owner says they will move to another supplier if it happens again.
+SD-4415,2026-10-23,,St. Brendan School,Dishwashing,P3,Open,2026-10-30,Jules Martin,Visit booked for 27 Oct.
+SD-4416,2026-10-23,2026-10-23,Marlow Pub,Ice machines,P3,Closed,2026-10-30,Ana Ruiz,Reset. No fault found.
+SD-4417,2026-10-23,2026-10-24,Riverside Hospital Kitchen,Small appliances,P3,Closed,2026-10-30,Jules Martin,Toaster element replaced.
+SD-4418,2026-10-24,2026-10-24,Pinecrest Hotel,Refrigeration,P2,Closed,2026-10-27,Theo Banerjee,Reach-in fridge door seal replaced.
+SD-4418,2026-10-24,2026-10-24,Pinecrest Hotel,Refrigeration,P2,Closed,2026-10-27,Theo Banerjee,Reach-in fridge door seal replaced.
+SD-4419,2026-10-24,,Bayview Care Home,Ovens,P2,Open,2026-10-27,Ana Ruiz,Engineer booked for Monday.
+SD-4420,2026-10-25,,Copper Kettle Cafe,Refrigeration,P3,Open,2026-11-02,Jules Martin,Logged by web form on Sunday.

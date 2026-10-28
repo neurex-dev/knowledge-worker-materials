@@ -1,0 +1,15 @@
+po_number,supplier,depot,expected_date,received_date,qty_ordered,qty_received,qty_damaged,carrier,notes
+PO-77120,Arctis Components,North,2026-10-19,2026-10-19,40,40,0,Halvorsen Freight,
+PO-77121,Brenner Thermal,South,2026-10-19,2026-10-21,12,12,0,Halvorsen Freight,Driver said the depot was closed on the first attempt.
+PO-77122,Coldline Parts,North,2026-10-20,2026-10-20,25,22,0,Coldline Parts van,Packing slip says 25.
+PO-77123,Delmar Fittings,South,2026-10-20,2026-10-20,100,100,4,Halvorsen Freight,Four boxes crushed.
+PO-77124,Arctis Components,South,2026-10-21,2026-10-21,30,30,0,Halvorsen Freight,
+PO-77125,Brenner Thermal,North,2026-10-21,2026-10-23,8,8,0,Halvorsen Freight,
+PO-77126,Coldline Parts,South,2026-10-22,2026-10-22,15,15,0,Coldline Parts van,
+PO-77127,Delmar Fittings,North,2026-10-22,2026-10-22,60,72,0,Halvorsen Freight,12 extra units. Not on the PO.
+PO-77128,Arctis Components,North,2026-10-22,,20,,,Halvorsen Freight,Tracking shows in transit.
+PO-77129,Brenner Thermal,South,2026-10-23,2026-10-23,10,10,1,Halvorsen Freight,One thermostat box wet.
+PO-77130,Coldline Parts,North,2026-10-23,2026-10-23,18,18,0,Coldline Parts van,
+PO-77131,Delmar Fittings,South,2026-10-23,2026-10-24,45,45,0,Halvorsen Freight,
+PO-77132,Coldline Parts,South,2026-10-23,2026-10-23,24,24,0,Coldline Parts van,
+PO-77133,Brenner Thermal,North,2026-10-23,,6,,,Halvorsen Freight,
